@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="easy_list_item_text_size">21.0dip</dimen>
+    <dimen name="guide_actionbar_land_buttons_margin_left">555.0dip</dimen>
+    <dimen name="custom_splitcolorview_layoutHeight">83.0dip</dimen>
+    <dimen name="powersavingmode_help_dialog_tap_img_width">40.0dip</dimen>
+    <dimen name="powersavingmode_help_dialog_tap_img_height">40.0dip</dimen>
+    <dimen name="powersavingmode_help_dialog_tap_bubble_body_margin_top">7.0dip</dimen>
+    <dimen name="powersavingmode_help_dialog_tap_bubble_picker_margin_top">0.0dip</dimen>
+    <dimen name="notification_image_margin_top">-2.0dip</dimen>
+    <dimen name="notification_text_margin_top">-2.0dip</dimen>
+</resources>

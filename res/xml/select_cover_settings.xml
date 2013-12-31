@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceScreen android:title="@string/weather" android:key="weather" android:summary="@string/weather_summary">
+        <intent android:action="com.sec.android.daemonapp.weather.setting">
+            <extra android:name="SETTING_MODE" android:value="1" />
+        </intent>
+    </SwitchPreferenceScreen>
+    <CheckBoxPreference android:title="@string/walking_mate_title" android:key="walking_mate" android:summary="@string/walking_mate_summary" android:widgetLayout="@touchwiz:layout/preference_widget_twcheckbox" />
+</PreferenceScreen>

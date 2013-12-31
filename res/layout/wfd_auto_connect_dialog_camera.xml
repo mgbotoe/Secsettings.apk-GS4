@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:paddingBottom="13.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/wfd_background_view" android:layout_width="310.0dip" android:layout_height="190.0dip" android:src="@drawable/allshare_cast_connecting_device_camera" android:scaleType="fitXY" android:layout_centerHorizontal="true" />
+    <ImageView android:id="@id/wfd_animation_view" android:layout_width="66.0dip" android:layout_height="12.0dip" android:layout_marginTop="85.0dip" android:layout_marginRight="-167.0dip" android:scaleType="fitXY" android:layout_toLeftOf="@id/wfd_background_view" />
+    <TextView android:textSize="19.0sp" android:textColor="#ffc8c8c8" android:id="@id/wfd_connecting_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wifi_p2p_connecting" android:singleLine="true" android:layout_below="@id/wfd_background_view" android:layout_centerHorizontal="true" />
+</RelativeLayout>

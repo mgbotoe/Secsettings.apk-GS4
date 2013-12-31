@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="guide_vzw_wifi_pointer_step_1_port_margin_top">168.0dip</dimen>
+    <dimen name="guide_step_1_port_vzw_wifi_pointer_margin_top">168.0dip</dimen>
+    <dimen name="guide_actionbar_land_buttons_margin_left">550.0dip</dimen>
+    <dimen name="voicecontrol_guide_enable_pointer_port_margin_top">4.0dip</dimen>
+    <dimen name="powersavingmode_help_dialog_tap_bubble_margin_top">10.0dip</dimen>
+    <dimen name="powersavingmode_help_dialog_tap_bubble_body_margin_top">5.1999817dip</dimen>
+    <dimen name="powersavingmode_help_dialog_tap_bubble_body_margin_right">-7.0dip</dimen>
+    <dimen name="powersavingmode_help_dialog_tap_bubble_picker_margin_top">-8.0dip</dimen>
+    <dimen name="powersavingmode_help_touchable_switch_margin_top">4.5dip</dimen>
+    <dimen name="svoice_help_dialog_tap_bubble_margin_top">10.0dip</dimen>
+    <dimen name="svoice_help_dialog_tap_bubble_picker_margin_top">-8.0dip</dimen>
+    <dimen name="svoice_help_dialog_tap_bubble_body_margin_top">5.1999817dip</dimen>
+    <dimen name="svoice_help_dialog_tap_bubble_body_margin_right">-7.0dip</dimen>
+    <dimen name="widget_min_width">110.0dip</dimen>
+    <dimen name="widget_min_height">40.0dip</dimen>
+    <item type="dimen" name="widget_on_text_color">#ffffffff</item>
+    <item type="dimen" name="widget_off_text_color">#ffffffff</item>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="title_area">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">top|center</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="page_buddy_help">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">?android:twTextColorPrimary</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">13.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">7.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

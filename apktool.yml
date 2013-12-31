@@ -1,0 +1,14 @@
+version: 1.5.3.f3e50fbc56
+apkFileName: SecSettings.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 2
+sdkInfo:
+  minSdkVersion: '18'
+  targetSdkVersion: '18'
+packageInfo:
+  cur_package: android
+  orig_package: com.android.settings
+compressionType: false

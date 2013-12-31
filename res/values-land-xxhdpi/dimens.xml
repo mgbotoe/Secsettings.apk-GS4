@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="notification_panel_width">64.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUMMY_01f0">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01f1">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01f2">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01f3">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01f4">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01f5">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01f6">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01f7">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01f8">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01f9">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_01fa">false</item>
+</resources>

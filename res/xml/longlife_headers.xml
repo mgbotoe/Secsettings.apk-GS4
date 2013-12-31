@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <header android:id="@id/category_longlife_settings" android:title="Emergency mode" />
+    <header android:icon="@drawable/ic_settings_airplane_mode" android:id="@id/header_connection_airplane_mode" android:title="@string/airplane_mode" android:summary="@string/airplane_mode_menu_summary4" />
+    <header android:icon="@drawable/ic_settings_wireless" android:id="@id/wifi_settings" android:title="@string/wifi_settings_title" android:summary="@string/tap_to_configure" android:fragment="com.android.settings.wifi.WifiSettings" />
+    <header android:icon="@drawable/ic_settings_bluetooth2" android:id="@id/bluetooth_settings" android:title="@string/bluetooth_settings_title" android:summary="@string/tap_to_configure" android:fragment="com.android.settings.bluetooth.BluetoothSettings" />
+    <header android:icon="@drawable/ic_settings_location" android:id="@id/location_settings" android:title="@string/location_settings_title" android:fragment="com.android.settings.LocationSettings" />
+    <header android:icon="@drawable/ic_settings_sound" android:id="@id/sound_settings" android:title="@string/sound_settings" android:fragment="com.android.settings.SoundSettings" />
+</preference-headers>
