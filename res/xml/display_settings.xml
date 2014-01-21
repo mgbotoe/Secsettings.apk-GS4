@@ -4,7 +4,8 @@
   xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
   xmlns:touchwiz="http://schemas.android.com/apk/res/touchwiz">
     <PreferenceCategory android:title="@string/tts_general_section_title" android:key="general" />
-    <PreferenceScreen android:title="@string/wallpaper" android:key="wallpaper" android:fragment="com.android.settings.WallpaperSettings" />
+    <PreferenceScreen android:title="Torchlight" android:key="torchlight" android:fragment="com.android.settings.torchlight.TorchlightSettings" />
+	<PreferenceScreen android:title="@string/wallpaper" android:key="wallpaper" android:fragment="com.android.settings.WallpaperSettings" />
     <PreferenceScreen android:title="@string/led_indicator_settings" android:key="led_indicator_settings" android:fragment="com.android.settings.LedIndicatorSettings" />
     <PreferenceScreen android:title="@string/notification_panel_title" android:key="notification_panel_edit" android:fragment="com.android.settings.NotificationPanelMenu" />
     <CheckBoxPreference android:title="@string/multi_window_title" android:key="key_multi_window" android:summary="@string/multi_window_summary" android:widgetLayout="@touchwiz:layout/preference_widget_twcheckbox" />
